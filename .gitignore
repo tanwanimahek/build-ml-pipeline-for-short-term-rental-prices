@@ -113,3 +113,10 @@ mlruns/
 outputs/
 random_forest_dir/
 multirun/
+wandb/
+mlruns/
+outputs/
+*.csv
+rf_config.json
+__pycache__/
+.ipynb_checkpoints/
