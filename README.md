@@ -703,3 +703,7 @@ unimplemented TODO branches are still incomplete even when `mlflow run .` return
 ## Project links
 - W&B project: https://forge.coreweave.com/wandb/mahektanwani3011-gl-bajaj-institute-of-technology-and-m/nyc_airbnb
 - GitHub repository: https://github.com/tanwanimahek/build-ml-pipeline-for-short-term-rental-prices
+
+## Project links
+- W&B project: https://forge.coreweave.com/wandb/mahektanwani3011-gl-bajaj-institute-of-technology-and-m/nyc_airbnb
+- GitHub repository: https://github.com/tanwanimahek/build-ml-pipeline-for-short-term-rental-prices
